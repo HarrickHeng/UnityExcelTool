@@ -1,0 +1,6 @@
+﻿E:\CodeProject\Unity_DEMO\ExcelData\
+E:\CodeProject\Unity_DEMO\HH_Framework\Assets\Download\DataTable\
+E:\CodeProject\Unity_DEMO\HH_Framework\Assets\HHScripts\Data\DataTable\Create\
+E:\CodeProject\Unity_DEMO\HH_Framework\Assets\Download\xLuaLogic\DataNode\DataTable\Create\
+E:\CodeProject\Unity_DEMO\Server\Release\DataTable\
+E:\CodeProject\Unity_DEMO\Server\HHServer\HHServer.Common\DataTable\Create\
